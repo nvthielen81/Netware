@@ -10,7 +10,7 @@
 
 
 Hallo, my name is Nadir Van Thielen 
-I my studie of wonne wrok for a respectical companie Siemens Bisnis Service
+I my studie of wonne work for a respectical companie Siemens Bisnis Service
 For 5 yeras i in counter difeceld problems.
 And i was yest using the system that was in hand.
 And hered a farme work of a other companie novell
@@ -34,7 +34,7 @@ this book is covering:
 
 
 
-How to make Ye'our , own os.                                                            pgz 1. 
+How to make Ye'our , own os.                                                         *   pgz 1. 
 ------------------------------------------------------------------------------------------------
 The apelented of the code is to handle device notifications.
 Is hady to use. and penliedlie for the communety.
@@ -189,3 +189,4 @@ int hwnd console_main ( HWND Hwindowid, HWDN Hwindow_titel )
 // thwe MAC OS X code is not used here, but it is a good example of how to handle device notifications
 // and how to use the IOHIDManager to get input from HID devices
 // if a electron divice that neayts to work  
+
