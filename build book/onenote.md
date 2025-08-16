@@ -1,16 +1,15 @@
-                                        titel 
-      o----- Netware free o/s creator handbook -------o
-        
-               -------------------------------------
+               
+               
                You'or pivate time of computer use. 
                and you/ar wanne build a own o/s 
                ----------------------------------- 
                
                
-
+                titel 
+o----- Netware free o/s creator handbook -------o
 
 Hallo, my name is Nadir Van Thielen 
-I my studie of wonne work for a respectical companie Siemens Bisnis Service
+I my studie of work for a respectical companie Siemens Bisnis Service
 For 5 yeras i in counter difeceld problems.
 And i was yest using the system that was in hand.
 And hered a farme work of a other companie novell
@@ -21,7 +20,20 @@ I was a long jersie like Json sripts to get the jest words on paper
 I hope you enjoy reding this 
 
 
-*------* specheal thans to my acediemie the helpt whit love and garatutude  *-----*
+*------* specheal tanks to my acediemie the helpt whit love and garatutude  *-----*
+
+
+
+
+Handbook i , usd for making this book posebel ( refereses :)
+
+
+-  CCNE cisco certifide netwerk engenier ( cisco Perss )
+-  Making your own os
+-  Maker elecletronic  ( Electror )
+
+
+
 
 
 
@@ -34,26 +46,23 @@ this book is covering:
 
 
 
-How to make Ye'our , own os.                                                         *   pgz 1. 
+How to make Ye'our , own os.                                                            pgz 1. 
 ------------------------------------------------------------------------------------------------
 The apelented of the code is to handle device notifications.
-Is hady to use. and penliedlie for the communety.
+Is handy to use. and penliedlie for the communenty.
 the momend that i, thoudt to get a own os, came from shool
 wher the teling of o words from letter en s of nummers . 
 and by, dowing home work. 
 
 ------------------------------------------------------------------------------------------------------
 For the computer to work like a PM post meschesche device.
-and the AM atom machine or computer , so you persal maschine 
-The use a component in the computer call bios wher all the interucsion ar regsterd 
-after power on. 
+The uis a component in the computer calld bios wher al the interucsion ar regsterd 
+after power on .  AM atoom moduleare divice like a modem or a or a telefoon.
 
-To call send a call's the data from the bios that work whit i2c system and 00 to FF.
-or 0b(ase-aders) bits 00000000 or 111111111 that is the IBM inix arry base emachine aderses.
-the key aders of a
-
-
-
+To call send a call the data from the bios that work whit i2c system and 00 to FF.
+The BIOS is a PHP post , Humen phone. 
+the work in 8bits / 16 bit date bus system.
+whit base aderses that can cange over echter per-fix-prosesor in the futher. 
 
 
 Build the disk installer for the device!
@@ -65,7 +74,8 @@ that you nead later , for accesing the device system opertatoren system .
 you me hear the tv tinking ow not [tor] time object regstrasion data o own to day. 
 [tor] is text object regstrasion frame work programing.
 like a bel on the door tor gose the sound ting o the echo galam that cam from.
-telegrafie that door bel like telegramm sending .and waitimg for mail like Mirosoft(r) in home. whaiting for the post man or wommen. also a good studie book it MCITP. 
+telegrafie that door bel like telegramm sending .and waitimg for mail like Mirosoft(r) in home.
+ whaiting for the post man or wommen. also a good studie book it MCITP.
 that read a studed tiping this other handel book .   
 and the string ar ascii aders system cloks ii index  / index i/o
 from your o clok pen and the bel  from , somwans home  and the Hrts clok wher the disk clok 
@@ -77,7 +87,10 @@ de EE/EI the EID the iIDE electron SD system . data a controlpons card.
 you ow pen and i/o that you no momen on paper and also on the mobile device's
 like child drawing or darwin strudie of the mind like the cloud hy studie biolgie a told a strie in his life astro tel. wher later never to by leater astronomie en santifica happen evrie day in space.
 
--o-----------------------------------------------------------------------------------------------
+
+
+How to make Ye'our , own os.                                                              pgz 2.
+------------------------------------------------------------------------------------------------
 fesrts like a pulm or ferder ( apache server ) i conne explayen the bios r/w read and write how the floting ponters
 how they work. it like a litte printer in the computer that is updatebale.
 like a php paper H = word on paper, funy to say hey put in on papar bifor the printer is ther.
@@ -102,9 +115,9 @@ the b of base io of the i mersing o wher the mov in the disk sectror . regtrate
 and get the info from the divese and that ar the QR bloks.  Qwerie  word[.]
 electron registers index. wher de D of the fesr data register DD , data copy or cloning do. 
 PET pul up electric time from data sets. prom programebel . raed / and retract OEM.
-persenal electronic time and pettin a chering the momend pet http time time prive [AX] 
+persenal electronic time and pettin a chering the momend pet http time time prive [HE] 
 ---------------------------------------------------------------------------------------------------
-istrucion code 
+qwatum band 
 bios ARM (asembler )
 
 // digatal data 
@@ -125,14 +138,14 @@ DF DAB0004
 DF DAB0008
 
 
-//  System data
+// SYSTEM HEX code 
 SH DAB001
 SH DAB003
 SH DAB005
 SH DAB007
 SH DAB009
 
-
+00:00 = [ base aders ] that cam from a clok 
 
 
 
@@ -162,12 +175,23 @@ NetWare was widely used in businesses and organizations for many years,
 
 
 
-int hwnd console_main ( HWND Hwindowid, HWDN Hwindow_titel )
+
+*------------------------------------------------------------------------------------------------------*
+Sampel code to make a Terminal window 
+*------------------------------------------------------------------------------------------------------*
+
+HWND int terminal_window ( HWND Hwindowid)
 {
+        Define wd = HWND_WINDOW
+
+        wd.windowname = "Root"                      // the name of the window
+        wd.fonts = "BMP1"                           // bits Maschine pixsels
+        wd.classwindowname = "root"
+
 
 
 }
-
+*------------------------------------------------------------------------------------------------------*
 
 
 
@@ -189,4 +213,3 @@ int hwnd console_main ( HWND Hwindowid, HWDN Hwindow_titel )
 // thwe MAC OS X code is not used here, but it is a good example of how to handle device notifications
 // and how to use the IOHIDManager to get input from HID devices
 // if a electron divice that neayts to work  
-
