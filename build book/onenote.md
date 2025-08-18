@@ -9,28 +9,29 @@
 o----- Netware free o/s creator handbook -------o
 
 Hallo, my name is Nadir Van Thielen 
-I my studie of work for a respectical companie Siemens Bisnis Service
-For 5 yeras i in counter difeceld problems.
+I my studies of work for a respectively company Siemens Bisnis Service
+For 5 years i in counter undetectable problems.
 And i was yest using the system that was in hand.
-And hered a farme work of a other companie novell
+And herded a frame work of a other company novell
 
-This book is intende for peapol the wanne know.
-A litte bit historie like a whit hores of the cloud 
-I was a long jersie like Json sripts to get the jest words on paper 
-I hope you enjoy reding this 
-
-
-*------* specheal tanks to my acediemie the helpt whit love and garatutude  *-----*
+This book is intended for papal the wane know.
+A Little bit histories like a whit horse of the cloud 
+and data frame works programming. 
+I was a long jernie like Json script's to get the jest words on paper 
+I hope you enjoy Reading this 
 
 
+*------* special tanks to my academy the help whit love and gratitude  *-----*
 
 
-Handbook i , usd for making this book posebel ( refereses :)
 
 
--  CCNE cisco certifide netwerk engenier ( cisco Perss )
+Handbook i , used for making this book possible ( referees :)
+
+
+-  CCNE cisco certified network engineer ( cisco Press )
 -  Making your own os
--  Maker elecletronic  ( Electror )
+-  Maker electronic  ( Elector )
 
 
 
@@ -38,8 +39,8 @@ Handbook i , usd for making this book posebel ( refereses :)
 
 
 this book is covering:
- * - The decripton off , the bios (SD) chip 
- * - Sampel code asembler C++ as well
+ * - The decryption off , the bios (SD) chip
+ * - Sample code assembler C++ as well
 
 
 
@@ -125,6 +126,8 @@ DD BAD00C1
 DD BAD00C3
 DD BAD00C5
 
+// BB binare bits copy
+
 
 // File bits
 FB DAB00C3
@@ -144,14 +147,61 @@ SH DAB003
 SH DAB005
 SH DAB007
 SH DAB009
+DATA REFERS card. 
+and Base Adders comes-from computer object machine electronic system's 
+// you me sehy the ase erase[like EZA ]  system or emerges at-omen energy   system
+// ASCII NIC  N = 40 from the PSTN fore or 4 from the System peons card or post card. 
 
-00:00 = [ base aders ] that cam from a clok 
+atom (ring ) adders data a telegram 
 
+00:00 = [ Base Adders ] that cam from a clock ( 0 sync )
+00:01 = [ Base Adders ] = [ ] : [a]
+00:02 = [ Base Adders ] = [ ] : [b]
+00:03 = [ Base Adders ] = [ ] : [c]
+00:04 = [ Base Adders ] = [ ] : [d]
+00:05 = [ Base Adders ] = [ ] : [e]
+00:06 = [ Base Adders ] = [ ] : [f]
+00:07 = [ Base Adders ] = [ ] : [g]
+00:08 = [ Base Adders ] = [ ] : [h]
+00:09 = [ Base Adders ] = [ ] : [i]
+00:10 = [ Base Adders ] = [ ] : [j]
+00:11 = [ Base Adders ] = [ ] : [k]
+00:12 = [ Base Adders ] = [ ] : [l]
+00:13 = [ Base Adders ] = [ ] : [n]
+00:14 = [ Base Adders ] = [ ] : [m]
+00:15 = [ Base Adders ] = [ ] : [o]   
+00:16 = [ Base Adders ] = [ ] : [p]
+00:17 = [ Base Adders ] = [ ] : [q]
+00:18 = [ Base Adders ] = [ ] : [r]
+00:19 = [ Base Adders ] = [ ] : [s]
+00:20 = [ Base Adders ] = [ ] : [t]
+00:21 = [ Base Adders ] = [ ] : [u]
+00:22 = [ Base Adders ] = [ ] : [v]
+00:23 = [ Base Adders ] = [ ] : [w]
+00:24 = [ Base Adders ] = [ ] : [x] 
+00:25 = [ Base Adders ] = [ ] : [y]
+00:26 = [ Base Adders ] = [ ] : [z]
+00:27 = [ Base Adders ] = [ ] : [A]
+00:28 = [ Base Adders ] = [ ] : [B]
+00:29 = [ Base Adders ] = [ ] : [C]
+00:30 = [ Base Adders ] = [ ] : [D]
+00:31 = [ Base Adders ] = [ ] : [E]
+00:32 = [ Base Adders ] = [ ] : [F]
+00:33 = [ Base Adders ] = [ ] : [J]
+00:34 = [ Base Adders ] = [ ] : [G]
+00:35 = [ Base Adders ] = [ ] : [H]
+00:36 = [ Base Adders ] = [ ] : [I]
+00:37 = [ Base Adders ] = [ ] : [J]
+00:38 = [ Base Adders ] = [ ] : [K]
+00:39 = [ Base Adders ] = [ ] : [L]
+00:40 = [ Base Adders ] = [ ] : [N]
+00:41 = [ Base Adders ] = [ ] : [M]
+00:42 = [ Base 
 
 
 - Bootloader 
 
-- disk compresion data files 
+- disk compression data files 
 the cluster is the tipe writer u/s of the saing words letter  ter is the sun that is puscht on paper.
 the i gonne use tar / en ter /e:a  compresion extract alorismens on thee computer 
 
@@ -177,7 +227,7 @@ NetWare was widely used in businesses and organizations for many years,
 
 
 *------------------------------------------------------------------------------------------------------*
-Sampel code to make a Terminal window 
+Sample code to make a Terminal window 
 *------------------------------------------------------------------------------------------------------*
 
 HWND int terminal_window ( HWND Hwindowid)
