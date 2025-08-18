@@ -17,7 +17,7 @@ And herded a frame work of a other company novell
 This book is intended for papal the wane know.
 A Little bit histories like a whit horse of the cloud 
 and data frame works programming. 
-I was a long jernie like Json script's to get the jest words on paper 
+I was a long studies like Json script's to get the jest words on paper ;-)
 I hope you enjoy Reading this 
 
 
@@ -49,21 +49,20 @@ this book is covering:
 
 How to make Ye'our , own os.                                                            pgz 1. 
 ------------------------------------------------------------------------------------------------
-The apelented of the code is to handle device notifications.
-Is handy to use. and penliedlie for the communenty.
-the momend that i, thoudt to get a own os, came from shool
-wher the teling of o words from letter en s of nummers . 
-and by, dowing home work. 
+The appended of the code is to handle device notifications.
+Is handy to use. and penlight for the community.
+the moment that i, thought to get a own os, came from school
+where the telling of o words from letter en s of mummers . 
+and by, downing home work. 
 
 ------------------------------------------------------------------------------------------------------
-For the computer to work like a PM post meschesche device.
-The uis a component in the computer calld bios wher al the interucsion ar regsterd 
-after power on .  AM atoom moduleare divice like a modem or a or a telefoon.
-
+For the computer to work like a PM post messages device.
+The use a component in the computer called bios where the interactions is registered 
+after power on, AM atom module-are device like a modem or a or a telephone.
 To call send a call the data from the bios that work whit i2c system and 00 to FF.
-The BIOS is a PHP post , Humen phone. 
+The BIOS is a PHP post, 
 the work in 8bits / 16 bit date bus system.
-whit base aderses that can cange over echter per-fix-prosesor in the futher. 
+whit base aderses that can cange over echter per-fix-processor in the futher. 
 
 
 Build the disk installer for the device!
@@ -151,52 +150,70 @@ DATA REFERS card.
 and Base Adders comes-from computer object machine electronic system's 
 // you me sehy the ase erase[like EZA ]  system or emerges at-omen energy   system
 // ASCII NIC  N = 40 from the PSTN fore or 4 from the System peons card or post card. 
-
+//this i hand later for the TCP/IP protocol filter sender and receiver. 
 atom (ring ) adders data a telegram 
 
-00:00 = [ Base Adders ] that cam from a clock ( 0 sync )
-00:01 = [ Base Adders ] = [ ] : [a]
-00:02 = [ Base Adders ] = [ ] : [b]
-00:03 = [ Base Adders ] = [ ] : [c]
-00:04 = [ Base Adders ] = [ ] : [d]
-00:05 = [ Base Adders ] = [ ] : [e]
-00:06 = [ Base Adders ] = [ ] : [f]
-00:07 = [ Base Adders ] = [ ] : [g]
-00:08 = [ Base Adders ] = [ ] : [h]
-00:09 = [ Base Adders ] = [ ] : [i]
-00:10 = [ Base Adders ] = [ ] : [j]
-00:11 = [ Base Adders ] = [ ] : [k]
-00:12 = [ Base Adders ] = [ ] : [l]
-00:13 = [ Base Adders ] = [ ] : [n]
-00:14 = [ Base Adders ] = [ ] : [m]
-00:15 = [ Base Adders ] = [ ] : [o]   
-00:16 = [ Base Adders ] = [ ] : [p]
-00:17 = [ Base Adders ] = [ ] : [q]
-00:18 = [ Base Adders ] = [ ] : [r]
-00:19 = [ Base Adders ] = [ ] : [s]
-00:20 = [ Base Adders ] = [ ] : [t]
-00:21 = [ Base Adders ] = [ ] : [u]
-00:22 = [ Base Adders ] = [ ] : [v]
-00:23 = [ Base Adders ] = [ ] : [w]
-00:24 = [ Base Adders ] = [ ] : [x] 
-00:25 = [ Base Adders ] = [ ] : [y]
-00:26 = [ Base Adders ] = [ ] : [z]
-00:27 = [ Base Adders ] = [ ] : [A]
-00:28 = [ Base Adders ] = [ ] : [B]
-00:29 = [ Base Adders ] = [ ] : [C]
-00:30 = [ Base Adders ] = [ ] : [D]
-00:31 = [ Base Adders ] = [ ] : [E]
-00:32 = [ Base Adders ] = [ ] : [F]
-00:33 = [ Base Adders ] = [ ] : [J]
-00:34 = [ Base Adders ] = [ ] : [G]
-00:35 = [ Base Adders ] = [ ] : [H]
-00:36 = [ Base Adders ] = [ ] : [I]
-00:37 = [ Base Adders ] = [ ] : [J]
-00:38 = [ Base Adders ] = [ ] : [K]
-00:39 = [ Base Adders ] = [ ] : [L]
-00:40 = [ Base Adders ] = [ ] : [N]
-00:41 = [ Base Adders ] = [ ] : [M]
-00:42 = [ Base 
+00:00 = [ Base Adders ] that cam from a clock ( 0 sync ) 0b bits 
+00:01 = [ Base Adders ] = [ ] : [0] = [00000000]
+00:02 = [ Base Adders ] = [ ] : [1] = [00000001]
+00:03 = [ Base Adders ] = [ ] : [2] = [00000010]
+00:04 = [ Base Adders ] = [ ] : [3] = [00000011]
+00:05 = [ Base Adders ] = [ ] : [4] = [00000101]
+00:06 = [ Base Adders ] = [ ] : [5] = [00000111]
+00:07 = [ Base Adders ] = [ ] : [6] = [00001001]
+00:08 = [ Base Adders ] = [ ] : [7] = [00001010]
+00:09 = [ Base Adders ] = [ ] : [8] = [00001110]
+00:10 = [ Base Adders ] = [ ] : [9] = [00001111]
+00:11 = [ Base Adders ] = [ ] : [a] = [00010001]
+00:12 = [ Base Adders ] = [ ] : [b] = [00010010]
+00:13 = [ Base Adders ] = [ ] : [c] = [00010100]
+00:14 = [ Base Adders ] = [ ] : [d] = [000
+00:15 = [ Base Adders ] = [ ] : [e]
+00:16 = [ Base Adders ] = [ ] : [f]
+00:17 = [ Base Adders ] = [ ] : [g]
+00:18 = [ Base Adders ] = [ ] : [h]
+00:19 = [ Base Adders ] = [ ] : [i]
+00:20 = [ Base Adders ] = [ ] : [j]
+00:21 = [ Base Adders ] = [ ] : [k]
+00:22 = [ Base Adders ] = [ ] : [l]
+00:23 = [ Base Adders ] = [ ] : [n]
+00:24 = [ Base Adders ] = [ ] : [m] 
+00:25 = [ Base Adders ] = [ ] : [o]
+00:26 = [ Base Adders ] = [ ] : [p]
+00:27 = [ Base Adders ] = [ ] : [q]
+00:28 = [ Base Adders ] = [ ] : [r]
+00:29 = [ Base Adders ] = [ ] : [s]
+00:30 = [ Base Adders ] = [ ] : [t]
+00:31 = [ Base Adders ] = [ ] : [u]
+00:32 = [ Base Adders ] = [ ] : [v]
+00:33 = [ Base Adders ] = [ ] : [w]
+00:34 = [ Base Adders ] = [ ] : [x]
+00:35 = [ Base Adders ] = [ ] : [y]
+00:36 = [ Base Adders ] = [ ] : [A]
+00:37 = [ Base Adders ] = [ ] : [B]
+00:38 = [ Base Adders ] = [ ] : [C]
+00:39 = [ Base Adders ] = [ ] : [D]
+00:40 = [ Base Adders ] = [ ] : [E]
+00:41 = [ Base Adders ] = [ ] : [F]
+00:42 = [ Base Adders ] = [ ] : [G]
+00:43 = [ Base Adders ] = [ ] : [H]
+00:43 = [ Base Adders ] = [ ] : [I]
+00:44 = [ Base Adders ] = [ ] : [J]
+00:45 = [ Base Adders ] = [ ] : [K]
+00:46 = [ Base Adders ] = [ ] : [L]
+00:47 = [ Base Adders ] = [ ] : [N]
+00:48 = [ Base Adders ] = [ ] : [O]
+00:49 = [ Base Adders ] = [ ] : [P]
+00:50 = [ Base Adders ] = [ ] : [Q]
+00:51 = [ Base Adders ] = [ ] : [R]
+00:52 = [ Base Adders ] = [ ] : [S]
+00:53 = [ Base Adders ] = [ ] : [T]
+00:54 = [ Base Adders ] = [ ] : [U]
+00:55 = [ Base Adders ] = [ ] : [V]
+00:56 = [ Base Adders ] = [ ] : [W]
+00:57 = [ Base Adders ] = [ ] : [X]
+00:58 = [ Base Adders ] = [ ] : [Y]
+00:59 = [ Base Adders ] = [ ] : [Z]
 
 
 - Bootloader 
