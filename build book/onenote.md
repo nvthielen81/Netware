@@ -14,7 +14,7 @@ For 5 years i in counter undetectable problems.
 And i was yest using the system that was in hand.
 And herded a frame work of a other company novell
 
-This book is intended for papal the wane know.
+This book is intended for peal the wane know.
 A Little bit histories like a whit horse of the cloud 
 and data frame works programming. 
 I was a long studies like Json script's to get the jest words on paper ;-)
@@ -68,3 +68,4 @@ the MIL module index label like a 555 controller. The tik Tok to , come from the
 00:06 = [ Base Adders ] = [ ] : [5] = [00000111] = H06
 00:07 = [ Base Adders ] = [ ] : [6] = [00001001] = H07
 00:08 = [ Base Adders ] = [ ] : [7] = [00001010] = H08
+
